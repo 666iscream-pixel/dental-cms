@@ -3,7 +3,7 @@
   "collectionName": "clinic_rules",
   "info": {
     "singularName": "clinic-rules",
-    "pluralName": "clinic-rules",
+    "pluralName": "clinic-rules-list",
     "displayName": "Regulamin kliniki",
     "description": "Regulamin kliniki"
   },
