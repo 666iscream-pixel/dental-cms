@@ -8,7 +8,7 @@
     "description": "Regulamin kliniki"
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {
     "i18n": {
