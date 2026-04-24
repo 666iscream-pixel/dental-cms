@@ -18,43 +18,51 @@
   "attributes": {
     "hero_title": {
       "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "hero_subtitle": {
       "type": "text",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "intro_text": {
-      "type": "blocks",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "timeline_title": {
       "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
-    "content": {
-      "type": "blocks",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+    "p1": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p2": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p3": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p4": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p5": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p6": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p7": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "p8": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }
