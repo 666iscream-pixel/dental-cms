@@ -159,6 +159,38 @@
           "localized": true
         }
       }
+    },
+    "clinic_page_1_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_1_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_2_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_2_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_3_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_3_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_4_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_page_4_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }

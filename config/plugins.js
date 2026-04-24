@@ -3,7 +3,7 @@ module.exports = () => ({
     enabled: true,
     config: {
       defaultLocale: 'pl',
-      locales: ['pl', 'ru', 'uk'],
+      locales: ['pl', 'ru', 'en'],
     },
   },
 });

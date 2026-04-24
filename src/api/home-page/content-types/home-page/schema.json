@@ -95,6 +95,102 @@
           "localized": true
         }
       }
+    },
+    "hero_slide_1_headline": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_slide_1_subline": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_slide_2_headline": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_slide_2_subline": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_slide_3_headline": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_slide_3_subline": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_1_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_1_desc": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_2_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_2_desc": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_3_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_3_desc": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_4_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "why_us_4_desc": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "reviews_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "reviews_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "reviews": {
+      "type": "json",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_cta_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_cta_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_cta_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_cta_primary": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "case_studies": {
+      "type": "json",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }
