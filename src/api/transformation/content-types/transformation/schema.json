@@ -8,7 +8,7 @@
     "description": "Before/after cases for Historia (Metamorphoses) section"
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {
     "i18n": {
@@ -35,7 +35,10 @@
     },
     "type": {
       "type": "enumeration",
-      "enum": ["slider", "single"],
+      "enum": [
+        "slider",
+        "single"
+      ],
       "default": "slider",
       "required": true,
       "pluginOptions": {
@@ -48,7 +51,9 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images"],
+      "allowedTypes": [
+        "images"
+      ],
       "pluginOptions": {
         "i18n": {
           "localized": false
@@ -59,7 +64,9 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images"],
+      "allowedTypes": [
+        "images"
+      ],
       "pluginOptions": {
         "i18n": {
           "localized": false
@@ -70,7 +77,9 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images"],
+      "allowedTypes": [
+        "images"
+      ],
       "pluginOptions": {
         "i18n": {
           "localized": false

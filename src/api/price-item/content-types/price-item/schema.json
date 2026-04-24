@@ -8,7 +8,7 @@
     "description": "Prices for Cennik section"
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {
     "i18n": {

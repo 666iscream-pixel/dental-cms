@@ -8,7 +8,7 @@
     "description": "Services list for Uslugi section"
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {
     "i18n": {
