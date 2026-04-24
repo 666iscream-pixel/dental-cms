@@ -4,7 +4,7 @@
   "info": {
     "singularName": "service-item",
     "pluralName": "service-items",
-    "displayName": "Service Item",
+    "displayName": "Usługi",
     "description": "Services list for Uslugi section"
   },
   "options": {
