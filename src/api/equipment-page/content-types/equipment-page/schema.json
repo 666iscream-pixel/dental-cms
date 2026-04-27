@@ -1,0 +1,128 @@
+{
+  "kind": "singleType",
+  "collectionName": "equipment_page",
+  "info": {
+    "singularName": "equipment-page",
+    "pluralName": "equipment-pages",
+    "displayName": "Narzędzia i technologie",
+    "description": "Treść strony Narzędzia i technologie"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "hero_tag": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_lead": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_1_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_1_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_2_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_2_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_3_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "benefit_3_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_tag": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_paragraph_1": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_paragraph_2": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_highlight_1": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_highlight_2": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_highlight_3": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "systems_highlight_4": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "diagnostics_tag": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "diagnostics_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "diagnostics_paragraph_1": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "diagnostics_paragraph_2": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "patient_effect_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "patient_effect_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_tag": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "final_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    }
+  }
+}
