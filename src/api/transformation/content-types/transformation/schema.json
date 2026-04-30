@@ -74,6 +74,42 @@
         }
       }
     },
+    "before_position": {
+      "type": "string",
+      "default": "50% 50%",
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "after_position": {
+      "type": "string",
+      "default": "50% 50%",
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "before_scale": {
+      "type": "decimal",
+      "default": 1,
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "after_scale": {
+      "type": "decimal",
+      "default": 1,
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
     "cover_image": {
       "type": "media",
       "multiple": false,
@@ -81,6 +117,24 @@
       "allowedTypes": [
         "images"
       ],
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "cover_position": {
+      "type": "string",
+      "default": "50% 50%",
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
+    },
+    "cover_scale": {
+      "type": "decimal",
+      "default": 1,
       "pluginOptions": {
         "i18n": {
           "localized": false
