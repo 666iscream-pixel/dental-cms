@@ -1,4 +1,15 @@
 module.exports = ({ env }) => ({
+  preview: {
+    enabled: true,
+    config: {
+      allowedOrigins: env('CLIENT_URL', 'https://cyrylmickiewicz.pl'),
+      async handler(uid, { documentId, locale, status }) {
+        if (uid !== 'api::transformation.transformation') return null;
+        const previewUrl = env('CLIENT_URL', 'https://cyrylmickiewicz.pl');
+        return `${previewUrl}/metamorfozy?preview=${documentId}&locale=${locale || 'pl'}`;
+      },
+    },
+  },
   auth: {
     secret: env('ADMIN_JWT_SECRET'),
   },
