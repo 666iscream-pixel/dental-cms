@@ -3,13 +3,13 @@ module.exports = ({ env }) => ({
     enabled: true,
     config: {
       allowedOrigins: [
-        'https://cyryl-mickiewicz-dental-git-develop-666iscream-pixels-projects.vercel.app'
+        'https://cyryl-mickiewicz-dental-git-redesign-666iscream-pixels-projects.vercel.app'
       ],
       async handler(uid, { documentId, locale, status }) {
         if (uid !== 'api::transformation.transformation') return null;
-        
-        const previewUrl = 'https://cyryl-mickiewicz-dental-git-develop-666iscream-pixels-projects.vercel.app';
-        // Strapi 5 uses documentId for the unique identifier across locales
+
+        const previewUrl = 'https://cyryl-mickiewicz-dental-git-redesign-666iscream-pixels-projects.vercel.app';
+        // Pass documentId so the frontend can auto-open the correct case modal
         return `${previewUrl}/metamorfozy?preview=${documentId}&locale=${locale || 'pl'}`;
       },
     },
