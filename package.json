@@ -15,6 +15,7 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
+    "@cslegany/drag-drop-content-types-strapi5": "^0.5.1",
     "@strapi/plugin-cloud": "5.43.0",
     "@strapi/plugin-users-permissions": "^5.43.0",
     "@strapi/provider-upload-cloudinary": "^5.43.0",

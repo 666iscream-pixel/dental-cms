@@ -6,4 +6,7 @@ module.exports = () => ({
       locales: ['pl', 'ru', 'en'],
     },
   },
+  'drag-drop-content-types': {
+    enabled: true,
+  },
 });
