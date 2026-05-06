@@ -1,0 +1,41 @@
+{
+  "kind": "singleType",
+  "collectionName": "team_page",
+  "info": {
+    "singularName": "team-page",
+    "pluralName": "team-pages",
+    "displayName": "Strona Zespół",
+    "description": "Treści strony Zespół poza kartami członków zespołu"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "seo_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_keywords": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "lead": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "members_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "members_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "members_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "book_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "expand_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "collapse_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "qualifications_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "certificates_modal_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "certificates_close": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "certificates_prev": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "certificates_next": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } }
+  }
+}
