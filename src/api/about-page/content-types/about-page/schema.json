@@ -191,6 +191,27 @@
     "clinic_page_4_description": {
       "type": "text",
       "pluginOptions": { "i18n": { "localized": true } }
-    }
+    },
+    "seo_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_keywords": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "learn_more_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "learn_more_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "read_more": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "philosophy_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "philosophy_section_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "gallery_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "gallery_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "space_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "space_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "space_lead": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "space_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "space_image_alt": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_eyebrow": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "final_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "primary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "secondary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } }
   }
 }

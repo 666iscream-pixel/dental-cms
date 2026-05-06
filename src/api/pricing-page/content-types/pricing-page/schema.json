@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "pricing_page",
+  "info": {
+    "singularName": "pricing-page",
+    "pluralName": "pricing-pages",
+    "displayName": "Strona Cennik",
+    "description": "Treści strony Cennik poza pojedynczymi pozycjami cennika"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "seo_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "seo_keywords": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_title_line_1": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_title_line_2": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_card_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_card_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "quick_facts": { "type": "json", "pluginOptions": { "i18n": { "localized": true } } },
+    "sections_intro_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "sections_intro_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "sections_intro_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "sections_price_range_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "core_sections": { "type": "json", "pluginOptions": { "i18n": { "localized": true } } },
+    "materials_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "materials_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "materials_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "materials_note": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "materials_items": { "type": "json", "pluginOptions": { "i18n": { "localized": true } } },
+    "cta_label": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "cta_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "cta_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
+    "cta_primary": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "cta_secondary": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } }
+  }
+}
