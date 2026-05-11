@@ -19,62 +19,126 @@
     "title": {
       "type": "string",
       "required": true,
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "description": {
       "type": "text",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "full_description": {
       "type": "text",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": true } }
     },
     "slug": {
       "type": "uid",
       "targetField": "title",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": false } }
     },
     "icon": {
       "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": false } }
     },
     "sort_order": {
       "type": "integer",
       "default": 0,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": false } }
     },
     "is_active": {
       "type": "boolean",
       "default": true,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "price_from": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "for_whom_1": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "for_whom_2": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "for_whom_3": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_1": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_2": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_3": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_4": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_5": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "advantage_6": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_1_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_1_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_2_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_2_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_3_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_3_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_4_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "step_4_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "consultation_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "consultation_text": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "btn_prices": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "btn_appointment": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "process_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }

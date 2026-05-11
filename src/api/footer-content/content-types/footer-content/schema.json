@@ -1,0 +1,56 @@
+{
+  "kind": "singleType",
+  "collectionName": "footer_content",
+  "info": {
+    "singularName": "footer-content",
+    "pluralName": "footer-contents",
+    "displayName": "Stopka (Footer)",
+    "description": "Treść stopki strony"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hours": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "company_name": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "company_address": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "copyright": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "book_btn": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "nav_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "services_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "contact_legal_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    }
+  }
+}
