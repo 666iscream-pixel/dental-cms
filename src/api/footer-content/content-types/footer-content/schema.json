@@ -24,6 +24,26 @@
       "type": "text",
       "pluginOptions": { "i18n": { "localized": true } }
     },
+    "phone": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "phone_display": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "email": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "address": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "city": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
     "company_name": {
       "type": "string",
       "pluginOptions": { "i18n": { "localized": false } }
@@ -49,6 +69,26 @@
       "pluginOptions": { "i18n": { "localized": true } }
     },
     "contact_legal_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "privacy_policy_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "cookies_policy_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "clinic_regulations_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "post_op_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "cookie_settings_label": {
       "type": "string",
       "pluginOptions": { "i18n": { "localized": true } }
     }
