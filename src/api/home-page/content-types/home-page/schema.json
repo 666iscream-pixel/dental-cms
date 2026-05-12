@@ -216,6 +216,14 @@
       "type": "string",
       "pluginOptions": { "i18n": { "localized": true } }
     },
+    "services_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "services_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
     "services_view_service": {
       "type": "string",
       "pluginOptions": { "i18n": { "localized": true } }
