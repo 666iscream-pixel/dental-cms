@@ -191,6 +191,38 @@
     "case_studies": {
       "type": "json",
       "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_view_case": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_view_all": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "services_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "services_view_service": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "services_view_all": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }
