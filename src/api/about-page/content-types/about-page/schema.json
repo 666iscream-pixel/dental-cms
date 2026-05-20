@@ -212,6 +212,27 @@
     "final_title": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
     "final_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
     "primary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
-    "secondary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } }
+    "secondary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
+    "hero_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "gallery_images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "space_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    }
   }
 }

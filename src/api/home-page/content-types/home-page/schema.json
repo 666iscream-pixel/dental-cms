@@ -231,6 +231,34 @@
     "services_view_all": {
       "type": "string",
       "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "hero_video": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["videos"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "hero_slide_1_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "hero_slide_2_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "hero_slide_3_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"],
+      "pluginOptions": { "i18n": { "localized": false } }
     }
   }
 }
