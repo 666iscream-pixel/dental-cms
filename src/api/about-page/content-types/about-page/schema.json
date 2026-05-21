@@ -213,9 +213,9 @@
     "final_description": { "type": "text", "pluginOptions": { "i18n": { "localized": true } } },
     "primary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
     "secondary_cta": { "type": "string", "pluginOptions": { "i18n": { "localized": true } } },
-    "hero_image": {
+    "carousel_images": {
       "type": "media",
-      "multiple": false,
+      "multiple": true,
       "required": false,
       "allowedTypes": ["images"],
       "pluginOptions": { "i18n": { "localized": false } }
