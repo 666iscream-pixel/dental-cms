@@ -123,6 +123,42 @@
     "map_description": {
       "type": "text",
       "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "instagram_url": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "instagram_handle": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "whatsapp_href": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "contact_cards_address_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "contact_cards_phone_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "contact_cards_email_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "contact_cards_hours_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "contact_cards_instagram_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "contact_cards_whatsapp_label": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
     }
   }
 }

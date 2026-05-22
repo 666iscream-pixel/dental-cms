@@ -259,6 +259,22 @@
       "required": false,
       "allowedTypes": ["images"],
       "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "metamorphosis_cta_eyebrow": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_cta_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_cta_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "metamorphosis_cta_button": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }

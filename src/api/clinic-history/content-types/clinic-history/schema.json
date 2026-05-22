@@ -118,6 +118,22 @@
       "required": false,
       "allowedTypes": ["images"],
       "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "cta_eyebrow": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "cta_title": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "cta_description": {
+      "type": "text",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "cta_button": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
     }
   }
 }

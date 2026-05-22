@@ -1,0 +1,52 @@
+{
+  "kind": "singleType",
+  "collectionName": "menu_settings",
+  "info": {
+    "singularName": "menu-settings",
+    "pluralName": "menu-settings",
+    "displayName": "Menu – ustawienia",
+    "description": "Dane kontaktowe wyświetlane w menu nawigacyjnym"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "phone_display": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "phone_href": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "email": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "address_line_1": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "address_line_2": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "working_hours": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": true } }
+    },
+    "instagram_url": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    },
+    "instagram_handle": {
+      "type": "string",
+      "pluginOptions": { "i18n": { "localized": false } }
+    }
+  }
+}
