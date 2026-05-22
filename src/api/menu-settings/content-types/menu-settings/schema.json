@@ -3,7 +3,7 @@
   "collectionName": "menu_settings",
   "info": {
     "singularName": "menu-settings",
-    "pluralName": "menu-settings",
+    "pluralName": "menu-settings-list",
     "displayName": "Menu – ustawienia",
     "description": "Dane kontaktowe wyświetlane w menu nawigacyjnym"
   },
